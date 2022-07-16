@@ -1,5 +1,6 @@
 this is not the original Thel PCB but it's very like\* the original with the following exceptions:  
 * slightly different board dimensions original: 47mm x 80mm -> this PCB: 47mm x 81mm
+* sightly different mounting hole spacing original: 40mm x 73mm -> this PCB: 40mm x 74mm
 * more massive ground and power supply PCB tracks  
 * using the 2mm gold-plated brass solder pins (the same ones used on the more expensive Thel modules)
 * different arrangement of the two GND output pins
