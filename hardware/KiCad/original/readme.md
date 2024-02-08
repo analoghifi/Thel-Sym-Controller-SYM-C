@@ -13,6 +13,9 @@ this is not the original Thel PCB but it's very like\* the original with the fol
 ----  
   
 these are KiCad 6.x projects  
-see how to get the proper 3D-Models from here: https://github.com/analoghifi/KiCad-3D-Models
+see how to get the proper 3D-Models from here: https://github.com/analoghifi/KiCad-3D-Models  
+
+use kicanvas.org to view this KiCad project in your browser:  
+https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fanaloghifi%2FThel-Sym-Controller-SYM-C%2Ftree%2Fmain%2Fhardware%2FKiCad%2Foriginal
 
 
